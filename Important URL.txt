@@ -1,0 +1,11 @@
+http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+
+http://www.devdungeon.com/content/ai-chat-bot-python-aiml#create-aiml-file
+
+https://pypi.python.org/pypi/PyAIML
+
+http://www.alicebot.org/TR/2005/WD-aiml/
+
+https://www.chatbots.org/ai_zone/viewthread/1799/
+
+http://www.alicebot.org/aiml/aaa/
